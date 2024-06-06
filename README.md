@@ -1,4 +1,10 @@
+<p align="center">
+<img src="https://github.com/Parkomate-ParkVision/parkvision-frontend/assets/85283622/6f609ea7-b547-43cb-a771-2240ec86e914" width=400 />
+</p>
+
 # ParkVision Frontend
+
+![PARKVISION DASHBOARD](https://github.com/Parkomate-ParkVision/parkvision-frontend/assets/67187699/32e8800a-84b5-4d4d-afaf-a3ec6d949afe)
 
 ## Table of Contents
 - [Introduction](#introduction)
